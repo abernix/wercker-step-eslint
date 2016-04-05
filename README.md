@@ -24,6 +24,6 @@ The MIT License (MIT)
 
 # Changelog
 
-## 0.1.2
+## 0.1.3
 
 Initial commit.  Inspired entirely by the eslint step from wercker.
