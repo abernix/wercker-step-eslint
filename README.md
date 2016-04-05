@@ -9,20 +9,12 @@ if any, in the wercker user interface.
 
 # Example
 
-Run `eslint`:
+To use a version different than the current default above, set the version in your wercker.yml
 
 ```yaml
 build:
     steps:
-        - eslint
-```
-
-Run `eslint@2.7.0`:
-
-```yaml
-build:
-    steps:
-        - eslint:
+        - abernix/eslint:
             version: 2.7.0
 ```
 
@@ -32,6 +24,6 @@ The MIT License (MIT)
 
 # Changelog
 
-## 0.1.0
+## 0.1.1
 
 Initial commit.  Inspired entirely by the eslint step from wercker.
