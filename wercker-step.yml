@@ -1,0 +1,12 @@
+name: eslint
+version: 0.1.0
+keywords:
+  - lint
+  - eslint
+type: build
+report-filename: eslint.xml
+report-type: eslint
+properties:
+  version:
+    type: string
+    default: 2.7.0
