@@ -34,4 +34,4 @@ The MIT License (MIT)
 
 ## 0.1.0
 
-Initial commit.  Inspired entirely by the jshint step from wercker.
+Initial commit.  Inspired entirely by the eslint step from wercker.
