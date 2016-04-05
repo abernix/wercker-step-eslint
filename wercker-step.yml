@@ -1,11 +1,11 @@
 name: eslint
-version: 0.1.0
+version: 0.1.2
 keywords:
   - lint
   - eslint
 type: build
 report-filename: eslint.xml
-report-type: eslint
+report-type: jslint
 properties:
   version:
     type: string
