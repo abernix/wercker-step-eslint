@@ -7,4 +7,4 @@ type: build
 properties:
   version:
     type: string
-    default: 2.7.0
+    default: 2.8.0
