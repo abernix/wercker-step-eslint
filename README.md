@@ -5,7 +5,7 @@ if any, in the wercker user interface.
 
 # Options
 
-* `version` (optional, default: `2.7.0`) Version of eslint to install and use.
+* `version` (optional, default: `2.8.0`) Version of eslint to install and use.
 
 # Example
 
@@ -15,7 +15,7 @@ To use a version different than the current default above, set the version in yo
 build:
     steps:
         - abernix/eslint:
-            version: 2.7.0
+            version: 2.8.0
 ```
 
 # License
